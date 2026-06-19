@@ -1,0 +1,24 @@
+{
+  "movie_records": 1977,
+  "detail_pages": 1977,
+  "html_pages": 1990,
+  "category_pages": 10,
+  "category_counts": {
+    "rihan": 198,
+    "popular": 198,
+    "new": 198,
+    "suspense": 198,
+    "romance-comedy": 197,
+    "action-adventure": 197,
+    "drama": 198,
+    "animation-fantasy": 197,
+    "chinese": 198,
+    "western": 198
+  },
+  "video_sources": 150,
+  "zip_path": "/mnt/data/qingxi_rihan_yingpian_static_site.zip",
+  "zip_size": 10188370,
+  "missing_ad_pages": [],
+  "missing_baidu_pages": [],
+  "banned_found": []
+}
